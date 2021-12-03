@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520286260543",
+    "project_id": "villbank",
+    "storage_bucket": "villbank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520286260543:android:e59e000f1366671891978a",
+        "android_client_info": {
+          "package_name": "com.otto.villbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520286260543-gsmtljm65oa608oeljr38lu2ho4lf3it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoMtN-I1YMO4jqsPJ7r44wSVcsYtkt1jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520286260543-gsmtljm65oa608oeljr38lu2ho4lf3it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
